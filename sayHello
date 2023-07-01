@@ -1,3 +1,8 @@
-func sayHello( ){
-  fmt.Println("Halo penggemar")
+func sayHello( name string ){
+  return "Halo " + name
+
+}
+
+func main(){
+  sayHello("rehan")
 }
