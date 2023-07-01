@@ -1,0 +1,3 @@
+func sayHello( ){
+  fmt.Println("Halo penggemar")
+}
