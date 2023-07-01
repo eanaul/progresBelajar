@@ -11,5 +11,6 @@ November - December
 
 January - June
 - Kami belajar bahasa pemrograman **PHP**
+- Mengetahui konsp **OOP** pada bahasa pemrogramman **PHP**
 - Kami diajarkan apa itu MySQL, Server, Database esc.
 - Sebagai projek akhir kelas 10, Saya memilih membuat web Peminjaman Laptop.
